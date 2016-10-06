@@ -21,6 +21,8 @@ public class PruebaNapakalaki {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Prize p = new Prize(0, 0);
+        System.out.println(p.toString());
     }
     
 }
